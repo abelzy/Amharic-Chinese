@@ -1,0 +1,43 @@
+<resources>
+
+    <string name="app_name">AndroidDictionaryApplication</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_dictionary">DictionaryActivity</string>
+
+    <string name="text_to_speech">Convert Text to Speech</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_page_description" translatable="false">
+        <b>Welcome to BetreTech:</b>\nWe are a team of developers from computer science and software department of 2017/2018 batch.
+        What collect us together starting from 2018 is seeking for technology, and to do what expected from us. This team
+        have a great plan for the future, we believe that every great thing start from base. We all are from betre-science
+        scholarship and we named our self  Betre Tech. As always we need help from you, if you have any idea,
+        please be free to contact us. We are very honorable to change your idea in to the real.
+    </string>
+    <string name="about_app_description" translatable="false">
+       Bsc app is designed and implemented  for all (>=101) 2017/2018 Ethiopian betre Science scholarship students 
+        that  would gather us in one smartphon
+        e or tablet. Bsc application is free android app with features favorite,
+        game, message , Accessibility to facebook, accessibility to instagram add phone call.
+        With Bsc app you can get the picture of >=101 Bsc students as well as you can visit their facebook a
+        nd instagram accounts.\n Thank you for using Bsc app.
+    </string>
+
+    <string name="about_contact_us">Contact us</string>
+    <string name="about_instagram">Follow us on Instagram</string>
+    <string name="about_facebook">Like us on Facebook</string>
+    <string name="about_play_store">Rate us on the Play Store</string>
+    <string name="about_youtube">Watch us on Youtube</string>
+    <string name="about_twitter">Follow us on Twitter</string>
+    <string name="about_github">Fork us on GitHub</string>
+    <string name="about_website">Visit our website</string>
+
+
+
+</resources>

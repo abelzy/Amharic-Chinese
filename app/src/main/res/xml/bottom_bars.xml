@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/ic_home"
+        title="Home"
+        barColorWhenSelected="#013220"/>
+    <tab
+        id="@+id/tab_favorite"
+        icon="@drawable/ic_favorite"
+        title="Favorites"
+        barColorWhenSelected="#7d6018"/>
+    <tab
+        id="@+id/tab_history"
+        icon="@drawable/ic_history"
+        title="History"
+        barColorWhenSelected="#11522e"/>
+    <tab
+        id="@+id/tab_setting"
+        icon="@drawable/ic_setting"
+        title="Settings"
+        barColorWhenSelected="#061055"/>
+</tabs>
